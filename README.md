@@ -22,6 +22,8 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
- 
+#Column Non-Null Count Dtype 
+
+
 # Result
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method
